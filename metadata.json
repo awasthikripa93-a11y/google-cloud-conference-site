@@ -1,0 +1,5 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "A cyberpunk-themed Snake game with an integrated neon music player.",
+  "requestFramePermissions": []
+}
